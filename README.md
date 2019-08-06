@@ -13,7 +13,7 @@ git clone https://github.com/rezaho/uspto_2019.git
 In case you need to run the BigQuery commands, you need to first set-up the Google Cloud console. Please follow the instruction in [Google Big Query Quick Start](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries#client-libraries-install-python).
 
 We recommend you to create a new virtual environment using `Conda` or `pip` package managers.
-Following code create a new environment for Conda or pip users using the `requirements.txt` file provided in this repository:
+The following code creates a new environment for Conda or pip users using the `requirements.txt` file provided in this repository:
 ```bash
 # Creating a new environment using pip
 
