@@ -17,6 +17,8 @@ The following code creates a new environment for Conda users using the `requirem
 ```
 # using Conda
 conda create --name <env_name> --file requirements.txt
+
+conda activate <env_name>
 ````
 If you prefer working with `pip` package manager, you may use the following code:
 ```
