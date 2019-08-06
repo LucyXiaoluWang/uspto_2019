@@ -20,7 +20,7 @@ conda create --name <env_name> --file requirements.txt
 
 conda activate <env_name>
 ````
-If you prefer working with `pip` package manager, you may use the following code:
+If you prefer using `pip` , you may use the following code:
 ```
 # using pip
 pip install -r requirements.txt
