@@ -1,4 +1,15 @@
-# iipp_patent_descrimination_2019
+# USPTO 2019
+
+ - This repository contains codes fot the following papers: [LINK AND NAME TO BE PROVIDED](https://)
+
+In this paper, we looked at the possible discrimination for foreign inventors. Inventions of foreign origin are about 10 percentage points less likely to be granted a U.S. patent than domestic inventions, controlling for invention quality. This finding adds to the body evidence that patent offices may be discriminating against foreigners, in apparent violation of international patent law. We show that this ‘bias’ against foreigners can be explained almost in full by differences in the quality of patent agents and in the financial resources of the applicants, as well as by the fact that domestic firms fight harder than foreign firms to get their patents granted.
+
+# Structure of This Repository
+This repository has been organized into the following directory:
+1. PATSTAT: Contains the code for generating BigQuery tables from the CSV files of the PATSTAT tables.
+2. Computing_FamilyID: Contains the code for computing the custom family ID and creating the twin application's table.
+3. Data_Preparation: Contains the code for combining different datasets and merging their information
+4. Final_Dataset: Contains the code for the final steps of preparing tables and also using different sources of information including NamSor API and NamePrism API.
 
 
 # Installation
