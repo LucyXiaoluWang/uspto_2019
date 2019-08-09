@@ -1,15 +1,19 @@
-# USPTO 2019
+# Summary
 
- - This repository contains codes of the following paper: [LINK AND NAME TO BE PROVIDED](https://)
+ - This repository contains codes of the following paper: [LINK AND TITLE TO BE PROVIDED](https://)
 
 In this paper, we looked at the potential discrimination between foreign and domestic inventors at the USPTO. Inventions of foreign origin are about 10 percentage points less likely to be granted a U.S. patent than domestic inventions, controlling for invention quality. This finding adds to the body evidence that patent offices may be discriminating against foreigners, in apparent violation of international patent law. We show that this ‘bias’ against foreigners can be explained almost in full by differences in the quality of patent agents and in the financial resources of the applicants, as well as by the fact that domestic firms fight harder than foreign firms to get their patents granted.
 
 # Structure of This Repository
 This repository has been organized into the following directories:
-1. PATSTAT: Contains the code for generating BigQuery tables from the CSV files of the PATSTAT tables.
-2. Computing_FamilyID: Contains the code for computing the custom family ID and creating the twin application's table.
-3. Data_Preparation: Contains the code for combining different datasets and merging their information
-4. Final_Dataset: Contains the code for the final steps of preparing tables and also using different sources of information including NamSor API and NamePrism API.
+## 1. PATSTAT: 
+This folder contains the notebooks for generating the BigQuery tables from the CSV files for the PATSTAT tables.
+## 2. Computing_FamilyID: 
+This folder contains the notebooks for computing the custom family ID and creating the twin application's table.
+## 3. Data_Preparation: 
+This folder contains the notebooks and data files for combining different datasets and merging their information. Each notebook is used for creating a different set of features, which we then have used for creating the final dataset.
+## 4. Final_Dataset: 
+This folder contains the notebooks and data files for creating the final tables. The main notebook for preparing the tables is `Final_Dataset_Preparation`. The steps for predicting names' ethnicity, country of origin, and gender can be also found in this folder.
 
 
 # Installation
