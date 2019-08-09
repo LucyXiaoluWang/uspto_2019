@@ -5,7 +5,7 @@
 In this paper, we looked at the potential discrimination between foreign and domestic inventors at the USPTO. Inventions of foreign origin are about 10 percentage points less likely to be granted a U.S. patent than domestic inventions, controlling for invention quality. This finding adds to the body evidence that patent offices may be discriminating against foreigners, in apparent violation of international patent law. We show that this ‘bias’ against foreigners can be explained almost in full by differences in the quality of patent agents and in the financial resources of the applicants, as well as by the fact that domestic firms fight harder than foreign firms to get their patents granted.
 
 # Structure of This Repository
-This repository has been organized into the following directory:
+This repository has been organized into the following directories:
 1. PATSTAT: Contains the code for generating BigQuery tables from the CSV files of the PATSTAT tables.
 2. Computing_FamilyID: Contains the code for computing the custom family ID and creating the twin application's table.
 3. Data_Preparation: Contains the code for combining different datasets and merging their information
