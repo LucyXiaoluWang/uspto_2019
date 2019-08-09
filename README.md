@@ -1,6 +1,6 @@
 # USPTO 2019
 
- - This repository contains codes fot the following papers: [LINK AND NAME TO BE PROVIDED](https://)
+ - This repository contains codes of the following paper: [LINK AND NAME TO BE PROVIDED](https://)
 
 In this paper, we looked at the potential discrimination between foreign and domestic inventors at the USPTO. Inventions of foreign origin are about 10 percentage points less likely to be granted a U.S. patent than domestic inventions, controlling for invention quality. This finding adds to the body evidence that patent offices may be discriminating against foreigners, in apparent violation of international patent law. We show that this ‘bias’ against foreigners can be explained almost in full by differences in the quality of patent agents and in the financial resources of the applicants, as well as by the fact that domestic firms fight harder than foreign firms to get their patents granted.
 
