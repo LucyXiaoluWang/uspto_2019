@@ -1,0 +1,132 @@
+pdi,idv,mas,uai,lto,ivr,country_code_iso2,country
+#NULL!,#NULL!,#NULL!,#NULL!,61,15,AL,Albania
+80,38,53,68,23,34,DZ,Algeria
+#NULL!,#NULL!,#NULL!,#NULL!,#NULL!,65,AD,Andorra
+49,46,56,86,20,62,AR,Argentina
+#NULL!,#NULL!,#NULL!,#NULL!,61,#NULL!,AM,Armenia
+38,90,61,51,21,71,AU,Australia
+11,55,79,70,60,63,AT,Austria
+#NULL!,#NULL!,#NULL!,#NULL!,61,22,AZ,Azerbaijan
+80,20,55,60,47,20,BD,Bangladesh
+#NULL!,#NULL!,#NULL!,#NULL!,81,15,BY,Belarus
+65,75,54,94,82,57,BE,Belgium
+69,38,49,76,44,59,BR,Brazil
+70,30,40,85,69,16,BG,Bulgaria
+#NULL!,#NULL!,#NULL!,#NULL!,27,18,BF,Burkina Faso
+39,80,52,48,36,68,CA,Canada
+63,23,28,86,31,68,CL,Chile
+80,20,66,30,87,24,CN,China
+67,13,64,80,13,83,CO,Colombia
+35,15,21,86,#NULL!,#NULL!,CR,Costa Rica
+73,33,40,80,58,33,HR,Croatia
+#NULL!,#NULL!,#NULL!,#NULL!,#NULL!,70,CY,Cyprus
+57,58,57,74,70,29,CZ,
+18,74,16,23,35,70,DK,Denmark
+78,8,63,67,#NULL!,#NULL!,EC,Ecuador
+80,38,53,68,23,34,EG,Egypt
+#NULL!,#NULL!,#NULL!,#NULL!,#NULL!,46,ET,Ethiopia
+66,19,40,94,20,89,SV,El Salvador
+40,60,30,60,82,16,EE,Estonia
+33,63,26,59,38,57,FI,Finland
+68,71,43,86,63,48,FR,France
+#NULL!,#NULL!,#NULL!,#NULL!,38,32,GE,Georgia
+35,67,66,65,83,40,DE,Germany
+77,20,46,54,9,78,GH,Ghana
+35,89,66,35,51,69,GB,
+60,35,57,112,45,50,GR,Greece
+95,6,37,101,#NULL!,#NULL!,GT,Guatemala
+68,25,57,29,61,17,HK,
+46,80,88,82,58,31,HU,Hungary
+#NULL!,#NULL!,#NULL!,#NULL!,28,67,IS,Iceland
+77,48,56,40,51,26,IN,India
+78,14,46,48,62,38,ID,Indonesia
+58,41,43,59,14,40,IR,
+80,38,53,68,23,34,IQ,Iraq
+28,70,68,35,24,65,IE,Ireland
+13,54,47,81,38,#NULL!,IL,Israel
+50,76,70,75,61,30,IT,Italy
+45,39,68,13,#NULL!,#NULL!,JM,Jamaica
+54,46,95,92,88,42,JP,Japan
+80,38,53,68,23,34,JO,Jordan
+60,18,39,85,100,29,KR,
+44,70,9,63,69,13,LV,Latvia
+42,60,19,65,82,16,LT,Lithuania
+40,60,50,70,64,56,LU,Luxembourg
+104,26,50,36,41,57,MY,Malaysia
+#NULL!,#NULL!,#NULL!,#NULL!,20,43,ML,Mali
+56,59,47,96,47,66,MT,Malta
+81,30,69,82,24,97,MX,Mexico
+#NULL!,#NULL!,#NULL!,#NULL!,75,20,ME,Montenegro
+70,46,53,68,14,25,MA,Morocco
+38,80,14,53,67,68,NL,Netherlands
+22,79,58,49,33,75,NZ,New Zealand
+77,20,46,54,9,78,NG,Nigeria
+31,69,8,50,35,55,NO,Norway
+55,14,50,70,50,0,PK,Pakistan
+95,11,44,86,#NULL!,#NULL!,PA,Panama
+64,16,42,87,25,46,PE,Peru
+94,32,64,44,27,42,PH,Philippines
+68,60,64,93,38,29,PL,Poland
+63,27,31,104,28,33,PT,Portugal
+#NULL!,#NULL!,#NULL!,#NULL!,0,90,PR,Puerto Rico
+90,30,42,90,52,20,RO,Romania
+93,39,36,95,81,20,RU,
+64,27,41,52,32,40,RW,Rwanda
+80,38,53,68,23,34,SA,Saudi Arabia
+86,25,43,92,52,28,RS,Serbia
+74,20,48,8,72,46,SG,Singapore
+104,52,110,51,77,28,SK,
+71,27,19,88,49,48,SI,Slovenia
+49,65,63,49,34,63,ZA,South Africa
+57,51,42,86,48,44,ES,Spain
+85,47,37,92,#NULL!,#NULL!,SR,Suriname
+31,71,5,29,53,78,SE,Sweden
+34,68,70,58,74,66,CH,Switzerland
+58,17,45,69,93,49,TW,
+64,27,41,52,32,40,TZ,
+64,20,34,64,32,45,TH,Thailand
+47,16,58,55,13,80,TT,Trinidad and Tobago
+66,37,45,85,46,49,TR,Turkey
+40,91,62,46,26,68,US,
+64,27,41,52,32,40,UG,Uganda
+#NULL!,#NULL!,#NULL!,#NULL!,86,14,UA,Ukraine
+61,36,38,100,26,53,UY,Uruguay
+81,12,73,76,16,100,VE,
+70,20,40,30,57,35,VN,
+64,27,41,52,32,40,ZM,Zambia
+64,27,41,52,32,40,ZW,Zimbabwe
+80,38,53,68,23,34,BH,Bahrain
+64,27,41,52,32,40,SS,South Sudan
+77,20,46,54,9,78,BF,Burkina Faso
+64,27,41,52,32,40,BI,Burundi
+64,27,41,52,32,40,KM,Comoros
+64,27,41,52,32,40,DJ,Djibouti
+64,27,41,52,32,40,ER,Eritrea
+77,20,46,54,9,78,GM,Gambia
+77,20,46,54,9,78,GN,Guinea
+77,20,46,54,9,78,GW,Guinea-Bissau
+64,27,41,52,32,40,KE,Kenya
+80,38,53,68,23,34,KW,Kuwait
+80,38,53,68,23,34,LB,Lebanon
+77,20,46,54,9,78,LR,Liberia
+80,38,53,68,23,34,LY,Libya
+64,27,41,52,32,40,MG,Madagascar
+64,27,41,52,32,40,MW,Malawi
+80,38,53,68,23,34,MR,Mauritania
+64,27,41,52,32,40,MU,Mauritius
+64,27,41,52,32,40,YT,Mayotte
+64,27,41,52,32,40,MZ,Mozambique
+80,38,53,68,23,34,OM,Oman
+80,38,53,68,23,34,QA,Qatar
+64,27,41,52,32,40,RE,Réunion
+77,20,46,54,9,78,SN,Senegal
+64,27,41,52,32,40,SC,Seychelles
+77,20,46,54,9,78,SL,Sierra Leone
+64,27,41,52,32,40,SO,Somalia
+80,38,53,68,23,34,PS,State of Palestine
+64,27,41,52,32,40,SD,Sudan
+80,38,53,68,23,34,SY,Syrian Arab Republic
+77,20,46,54,9,78,TG,Togo
+80,38,53,68,23,34,TN,Tunisia
+80,38,53,68,23,34,AE,United Arab Emirates
+80,38,53,68,23,34,YE,Yemen
