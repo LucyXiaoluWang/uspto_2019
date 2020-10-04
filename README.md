@@ -1,6 +1,6 @@
 # Summary
 
- - This repository contains codes of the following paper: [LINK AND TITLE TO BE PROVIDED](https://)
+ - This repository contains codes for the following paper: [Discrimination against foreigners in the U.S. patent system](https://doi.org/10.1057/s42214-020-00058-6) by Gaétan de Rassenfosse and Reza Hosseini, published in the Journal of International Business Policy.
 
 In this paper, we looked at the potential discrimination by USPTO (United States Patent and Trademark Office) between foreign and domestic inventors. Inventions of foreign origin are about 10 percentage points less likely to be granted a U.S. patent than domestic inventions, controlling for invention quality. This finding adds to the body evidence that patent offices may be discriminating against foreigners, in apparent violation of international patent law. We show that this ‘bias’ against foreigners can be explained almost in full by differences in the quality of patent agents and in the financial resources of the applicants, as well as by the fact that domestic firms fight harder than foreign firms to get their patents granted.
 
